@@ -3,10 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/submodules/dateTools" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/submodules/db.ads" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/submodules/db.mysql" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/submodules/fileOperator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/submodules/fileOperator/submodules/rentasad.library.basicTools.dateTools" vcs="Git" />
   </component>
 </project>

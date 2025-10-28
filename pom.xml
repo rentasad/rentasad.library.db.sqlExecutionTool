@@ -6,7 +6,7 @@
 
     <groupId>rentasad</groupId>
     <artifactId>rentasad.library.db.sqlExecutionTool</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -49,12 +49,12 @@
         <dependency>
             <groupId>rentasad.library</groupId>
             <artifactId>rentasad.library.db.ads</artifactId>
-            <version>3.0.2</version>
+            <version>3.0.3</version>
         </dependency>
         <dependency>
             <groupId>rentasad.library</groupId>
             <artifactId>rentasad.library.db.mysql</artifactId>
-            <version>3.0.2</version>
+            <version>3.0.5</version>
         </dependency>
         <!-- pom.xml -->
         <dependency>
