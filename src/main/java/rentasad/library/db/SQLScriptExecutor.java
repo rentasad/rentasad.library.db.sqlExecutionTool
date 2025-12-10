@@ -1,8 +1,9 @@
 package rentasad.library.db;
 
+import org.apache.ibatis.jdbc.ScriptRunner;
+
 import java.io.StringReader;
 import java.sql.Connection;
-import org.apache.ibatis.jdbc.ScriptRunner;
 
 public class SQLScriptExecutor {
 

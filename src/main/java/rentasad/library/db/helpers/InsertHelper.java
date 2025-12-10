@@ -1,5 +1,10 @@
 package rentasad.library.db.helpers;
 
+import lombok.Data;
+import lombok.Getter;
+import lombok.NonNull;
+import lombok.Synchronized;
+
 import java.io.InputStream;
 import java.lang.reflect.Field;
 import java.math.BigDecimal;
@@ -11,11 +16,6 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
-
-import lombok.Data;
-import lombok.Getter;
-import lombok.NonNull;
-import lombok.Synchronized;
 
 /**
  * A Helper class which allows generic creation of insert statements for general

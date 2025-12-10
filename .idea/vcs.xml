@@ -2,6 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../dep/gustini_cron_jobs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../deployment.gustini_statistik_updater" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ads" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../setartikel" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vs4modules" vcs="Git" />
   </component>
 </project>
